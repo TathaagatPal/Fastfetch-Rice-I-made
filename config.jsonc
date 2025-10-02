@@ -1,0 +1,9 @@
+{
+"logo":{
+"type":"file",
+"source":"/home/tathaagat/.config/fastfetch/robotfish.txt",
+"width":10,
+"height":5,
+},
+"modules":["title","os","host","kernal","bios","chassis","uptime","packages","shell","resolution","display","de","wm","wmtheme","terminal","cpu","gpu","wifi","datetime","memory","swap","disk","battery","version","colors"]
+}
